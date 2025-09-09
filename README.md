@@ -11,6 +11,7 @@ Includes login, customer records, and invoice generation in PDF format.
 - 📋 View customer list
 - 🧾 Generate PDF invoice for each customer
 - 🗄️ Data stored in SQLite database
+- 🌐 Deployable on [Render](https://render.com)
 
 ---
 
